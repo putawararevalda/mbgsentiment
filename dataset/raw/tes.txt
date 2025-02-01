@@ -1,0 +1,152 @@
+id,edit_history_tweet_ids,created_at,text,author_id
+1880292130180198790,1880292130180198790,2025-01-17T16:32:32.000Z,"@Mdy_Asmara1701 Kalau aku nangkep bukan perkara harganya sih, toh makan siang gratis juga ada yang bersyukur kok dapat",1438670984496631808
+1880292115445588012,1880292115445588012,2025-01-17T16:32:29.000Z,blio ini liat ga sih gmna bentuk porsi mbg itu????? dsar penjilat https://t.co/HBGwQyqAa1,845789303720493056
+1880292075989795300,1880292075989795300,2025-01-17T16:32:19.000Z,Wkwkwkwk apa bedanya sama makan siang gratis yg maksa bgt itu https://t.co/Pfi0kz77nE,717527489673711616
+1880292056163315714,1880292056163315714,2025-01-17T16:32:14.000Z,@Athalia_Lize Bersama wujudkan Indonesia sehat dengan gizi yang terpenuhi lewat makan bergizi gratis #PenuhiGiziIndonesia,1681575110912937984
+1880291867436499121,1880291867436499121,2025-01-17T16:31:29.000Z,Bersama kita bisa bantu cegah gizi buruk dengan program makan bergizi gratis #PenuhiGiziIndonesia https://t.co/2qOrlH8m3D,1815251216827555840
+1880291838210482497,1880291838210482497,2025-01-17T16:31:23.000Z,@strivxq Up juga dong yang bersyukur dapat makan siang gratis biar jadi pembanding bang,1438670984496631808
+1880291784968007807,1880291784968007807,2025-01-17T16:31:10.000Z,"@kozirama Suruh aja si squidward itu sama anaknya ikut makan bergizi gratis di sekolah tiap hari. 
+
+Kalo dia berdua nolak, TABOKIN SE INDONESIA.",1006487451135762433
+1880291754458640391,1880291754458640391,2025-01-17T16:31:03.000Z,"Kan, gerakan â€œdermawan dan pengemisâ€ ini dilanjutkan untuk menepis kritik soal MBG.
+
+Sekarang ia subtitusi dermawan itu dengan dirinya sendiri, dan pengemis itu dengan anaknya yang mempunyai tanggung jawab sosial untuk submisif terhadap apapun yang diberikan oleh si dermawan https://t.co/IsNI06LaFK",448530979
+1880291734367924517,1880291734367924517,2025-01-17T16:30:58.000Z,"Jangan biarkan gizi jadi penghalang, dukung makan bergizi gratis untuk seluruh anak bangsa #PenuhiGiziIndonesia https://t.co/yy7oXprXZd",1843190889709211648
+1880291690327732302,1880291690327732302,2025-01-17T16:30:47.000Z,Gizi nasional stabil lewat makan bergizi gratis tanpa batas #PenuhiGiziIndonesia,1699317131043901440
+1880291675731554733,1880291675731554733,2025-01-17T16:30:44.000Z,"Diskursus soal makan siang gratis ini udah ke mana-mana sih. Tapi sebagai civil servant, yang paling jadi perhatian itu penggunaan anggaran. Anggaran untuk makan gratis ini sangat fantastis sampai harus memotong banyak anggaran dari K/L yang membuat bahkan kerjaan daily aja",830993071491817474
+1880291675026936254,1880291675026936254,2025-01-17T16:30:44.000Z,Dukung makan bergizi gratis agar semua anak bisa merasakan cinta dan perhatian kita #PenuhiGiziIndonesia https://t.co/CnH9DCr7za,1687316154338119680
+1880291669884784783,1880291669884784783,2025-01-17T16:30:42.000Z,"@BBlikeMadu Bro dana sebanyak itu dipake cuman buat konsumtif?? dana sebesar itu bisa dipake bangun banyak hal. Ngasih makan dalam bentuk bansos gw setuju asal gk sering krena bansos penting sebagai dongkrak daya beli, tpi dirutinin macam MBG?? tungguin aja sampe nanti ketergantungan wkwkwk",1272855793348440064
+1880291663979139406,1880291663979139406,2025-01-17T16:30:41.000Z,yg kritik menu makan siang gratis ga enak ntr d suruh masak sendiri,1837095712494116864
+1880291646451118288,1880291646451118288,2025-01-17T16:30:37.000Z,Bareng-bareng dukung makan bergizi gratis biar anak-anak kita lebih sehat #PenuhiGiziIndonesia https://t.co/5VZ3UntRHN,1686650548697915393
+1880291617527226865,1880291617527226865,2025-01-17T16:30:30.000Z,@PaltiWest2024 Up juga dong yang dikasih makan siang gratis bersyukur juga bang biar ada pembanding,1438670984496631808
+1880291563995295835,1880291563995295835,2025-01-17T16:30:17.000Z,"Perlukah BPOM memeriksa semua pengusaha katering penyedia MBG supaya hal semacam ini tidak terjadi lagi? Harusnya sih iya, setiap makanan yang diedarkan kan harusnya lulus uji BPOM. https://t.co/2efHbNQVpk",1390878391746715650
+1880291442381423011,1880291442381423011,2025-01-17T16:29:48.000Z,@AnKiiim_ Ga sekalian dana haji dipake nalangin MBG sekalian pak? ðŸ§,1538513193425072128
+1880291441404199339,1880291441404199339,2025-01-17T16:29:48.000Z,Tidak ada yang lebih penting daripada masa depan anak-anak Indonesia. Ayo dukung makan bergizi gratis untuk pemenuhan gizi #PenuhiGiziIndonesia,1832649022571724800
+1880291420478767296,1880291420478767296,2025-01-17T16:29:43.000Z,"@pakaipeci Sepakat dgn @baznasindonesia mengizinkan Biaya makan Bergizi gratis di salurankan dari dana zakat
+Knp gw bilang sepakat,karna buat kemaslahatan dan untuk kepentingan bayak orang
+Daripada dananya tdk jelas keluar kemana, lebih baik di peruntukkan buat Program makan gizi gratis",951285641534304256
+1880291407027663244,1880291407027663244,2025-01-17T16:29:40.000Z,Mari jaga gizi nasional dengan terus menggencarkan makan bergizi gratis #PenuhiGiziIndonesia,1696073029623885824
+1880291273292279914,1880291273292279914,2025-01-17T16:29:08.000Z,@boovernment pro kontra banget makan siang gratis loh,1480178641183117319
+1880291237745553729,1880291237745553729,2025-01-17T16:28:59.000Z,Gizi nasional makin kuat dengan alimentasi makan bergizi gratis dukung yuk #PenuhiGiziIndonesia https://t.co/NQUpzfb0ck,1812699372817420288
+1880291165158928831,1880291165158928831,2025-01-17T16:28:42.000Z,Investasi masa depan yang nyata mulai dari gizi hari ini. Ayo dukung makan bergizi gratis #PenuhiGiziIndonesia,1683392523019120640
+1880291160012607930,1880291160012607930,2025-01-17T16:28:41.000Z,Makan bergizi gratis solusi cerdas untuk gizi nasional Indonesia #PenuhiGiziIndonesia,1683696374901276672
+1880291076696920065,1880291076696920065,2025-01-17T16:28:21.000Z,Biar gizi nasional gak belang bintik yuk dukung program makan bergizi gratis #PenuhiGiziIndonesia https://t.co/IIEDWuLXcr,1815627476774887424
+1880290996086534462,1880290996086534462,2025-01-17T16:28:02.000Z,Ayo bareng-bareng dukung makan bergizi gratis demi gizi yang merata untuk semua #PenuhiGiziIndonesia https://t.co/vr5FUFA6dz,1693874579922657280
+1880290919142109597,1880290919142109597,2025-01-17T16:27:43.000Z,"programnya gak salah tapi implementasinya yang tidak sesuai standar. bapak ini pernah gak sih lihat gimana bentukannya makan siang gratis? kalau berkaca dari azka , kira kira bapak ini mau gak anaknya dikasih makan dengan menu begitu https://t.co/gPFceKcsVv",1373978474784854016
+1880290900963914186,1880290900963914186,2025-01-17T16:27:39.000Z,"@ARSIPAJA Yee gua kalo disuruh pilih makan siang gratis atau nasi box suting, jelas enak nasi box suting lah. Bahkan kalo mau dibandingin sama makanan sutingan tugas mahasiswa film ( budget produksinya patungan) gua tetep milih itu dari pada makan siang oke gas sumpah",1368796185692008449
+1880290900808724590,1880290900808724590,2025-01-17T16:27:39.000Z,Gizi nasional yang baik dimulai dari makan bergizi gratis untuk semua #PenuhiGiziIndonesia,1696073014289575936
+1880290794365677597,1880290794365677597,2025-01-17T16:27:14.000Z,"Apaan Seh...LEBAY amat.
+Emang @prabowo yg Bayar Pakai Gajinya untuk Makan Siang Gratisâ“
+
+Yang Bayar MSG-MSB, Gaji Presiden, Gaji Menteri, Gaji Wakil Rakayt dan Gaji Pejabat Daerah/Pusat ya Orangtua Murid melalui PPH, PPN, PBB, PKB
+
+Jangan Lebay Kalian â€¼ï¸ https://t.co/QSLyyzZXK2",1606318502981169152
+1880290780612554892,1880290780612554892,2025-01-17T16:27:10.000Z,Satu langkah kecil seperti makan bergizi gratis bisa bawa dampak besar bagi gizi nasional #PenuhiGiziIndonesia https://t.co/XQE9d6IM1o,1686940658584719360
+1880290772286861519,1880290772286861519,2025-01-17T16:27:08.000Z,"Program MBG sebetulnya berat,Dana,teknis,pembagianya,yg nomilnalnya perporsi 10rb,tp demi realisasi janji2 kampanye harus, https://t.co/fvOWwCYE2G",1626589667520024578
+1880290763441132003,1880290763441132003,2025-01-17T16:27:06.000Z,Dukung program yang bergerak untuk gizi nasional dengan makan bergizi gratis #PenuhiGiziIndonesia https://t.co/QWGa3XYVJp,1684422030870069248
+1880290605248704716,1880290605248704716,2025-01-17T16:26:29.000Z,"@cingreborn @corbuzier Ini sih asal ngomong, bukan enak gak enak di banding Nasi box,ya ttp enak nasi box.
+Masalah nya, mbg yg di bagikan di jamin higienis ngak, kalau terjadi, keracunan,?
+Ini menjadi perhatian, bukan sekedar di kasih gratis!",1672102438332157952
+1880290560529084821,1880290560529084821,2025-01-17T16:26:18.000Z,"Dengan dukungan kita, makan bergizi gratis bisa menjadi nyata bagi banyak anak #PenuhiGiziIndonesia https://t.co/wHkelDBezL",1684468293518991360
+1880290547895791851,1880290547895791851,2025-01-17T16:26:15.000Z,Mari menciptakan generasi yang lebih baik dengan makan bergizi gratis untuk semua #PenuhiGiziIndonesia https://t.co/zGEZt2dn4f,1814225304543768577
+1880290529570877644,1880290529570877644,2025-01-17T16:26:11.000Z,@k_tuaethnic Maklum...pangkat itu bukan makan siang gratis bos,1102461866129776640
+1880290527813480546,1880290527813480546,2025-01-17T16:26:10.000Z,"@neohistoria_id @corbuzier ehhh ded tiap daerah beda2 jangan disamain anak lo. 
+
+https://t.co/UGt8UObYNt",2918272745
+1880290442149077103,1880290442149077103,2025-01-17T16:25:50.000Z,gue ga berenti ngetawain makan siang gratis core bocah bocah gen z awkwowkwkwkwkwkwkwkwkwk lucu lucu bangat anjrot,1468427381593444353
+1880290426336473318,1880290426336473318,2025-01-17T16:25:46.000Z,"@ARSIPAJA Saya setuju anak Indonesia harus tercukupi segala gizinya dan gak baik juga jika harus mencela makanan, namun begitu Program makan siang gratis bagi saya, saya kurang setuju karena salah satunya kurang tepat sasaran, contohnya anak yg benr2 miskin itu mlh tdk sekolh",2910400454
+1880290425795399941,1880290425795399941,2025-01-17T16:25:46.000Z,"Gizi seimbang buat bangsa jadi lebih kuat, mari dukung makan bergizi gratis #PenuhiGiziIndonesia https://t.co/BNnXryEXCp",1700225537657155586
+1880290379511263384,1880290379511263384,2025-01-17T16:25:35.000Z,"Gizi nasional tak boleh diabaikan, mari dukung makan bergizi gratis #PenuhiGiziIndonesia https://t.co/TkSpDebcnw",1684454890242985985
+1880290376088728050,1880290376088728050,2025-01-17T16:25:34.000Z,Gizi yang baik adalah hak setiap anak. Setuju program makan bergizi gratis #PenuhiGiziIndonesia https://t.co/pZVnLzaTQ1,1702532458011557888
+1880290350247604555,1880290350247604555,2025-01-17T16:25:28.000Z,"Menyamakan makan siang gratis yg nilainya 10rb dgn nasi kotak artis aja sdh aneh, atau emg nasi kotak artis harganya juga 10rb ya",385954080
+1880290315309052302,1880290315309052302,2025-01-17T16:25:19.000Z,@muannas_alaidid usul MBG diambil dari rampasan  tanah tanah rakyat yg sudah dirampas secara ilegal dari pengembang hitam .... https://t.co/chpZgSlY1D,1534933774278230017
+1880290278428594562,1880290278428594562,2025-01-17T16:25:11.000Z,"... ya.. 6jt aja keracunan, apalagi yang 10rb? Makan siang gratis ini awalnya buat apa sih? Katanya, bisa mencegah stunting, kan? Ya berati hari makanan yang bergizi. Heran deh, katanya smart people ðŸ˜… https://t.co/bsSA6PXeyY",2494347608
+1880290277908443141,1880290277908443141,2025-01-17T16:25:11.000Z,"Wok @prabowo mending makan siang gratis stop deh, sumpah abis itu gw stop maki2 lu pada selama 2 minggu",1634234344461172736
+1880290276029395219,1880290276029395219,2025-01-17T16:25:10.000Z,@ejwenni Makan bergizi gratis adalah pilihan bijak untuk Indonesia yang lebih adil dan sehat #PenuhiGiziIndonesia,1700034801938669568
+1880290156441399358,1880290156441399358,2025-01-17T16:24:42.000Z,@tempodotco makin tolol aja tuh ketua DPD...gaji lu tuh!!!...bisa gak relain buat MBG???!!!!.....,135832301
+1880290130071810307,1880290130071810307,2025-01-17T16:24:35.000Z,@RickyKardjono Rakyat ingin Gajih DPR di potong 50 % buat MBG.,1613404169997783040
+1880290083787665863,1880290083787665863,2025-01-17T16:24:24.000Z,ðŸ§ in this economy? anggaran mbg lu yang overly murah aja gak bisa mencukupi 3x makan dengan duit 20rb kurang itu. https://t.co/oxp0obFlap,966326434242314242
+1880290037566419109,1880290037566419109,2025-01-17T16:24:13.000Z,"Beda kasusnya dengan program makan siang gratis punya Prabowo
+Makanan yang diberi gratis betul, jadi anak anak di sana itu ga selayaknya complain tentang makanannya, apalagi bikin content ngehujat makanannya.
+tapi bukan berarti siapapun ga boleh complai",1143969435297804288
+1880290035733532750,1880290035733532750,2025-01-17T16:24:13.000Z,"Deddy botak iki ndelok bentukan menu panganan e ga se?
+Makan siang gratis, aku setuju di poin kalo kita makan makanan yang dikasi atau gratis entah itu ditraktir temen atau bertamu ke orang trus dapet makanan atau ke nikahan, itu no complain, kalo complain berarti ngelunjak.",1143969435297804288
+1880290034722500702,1880290034722500702,2025-01-17T16:24:13.000Z,Pemerintah akan mendorong penggunaan Anggaran Pendapatan dan Belanja Daerah (APBD) untuk mendukung pelaksanaan program Makan Bergizi Gratis (MBG). https://t.co/kENeT86tCB,135795460
+1880290017857384746,1880290017857384746,2025-01-17T16:24:09.000Z,pemerintah apa bisa lebih memperhatikan hal seperti ini dibanding makan siang gratis itu? https://t.co/XmXEGX9SKy,2944892318
+1880289913847050421,1880289913847050421,2025-01-17T16:23:44.000Z,"@jongxiin Tidak ada yang lebih penting dari gizi yang baik, dukung makan bergizi gratis sekarang #PenuhiGiziIndonesia",1830501785662042112
+1880289835656843316,1880289835656843316,2025-01-17T16:23:25.000Z,"Semua untuk gizi nasional yang baik, mari dukung makan bergizi gratis #PenuhiGiziIndonesia",1696020696089186304
+1880289823094894753,1880289823094894753,2025-01-17T16:23:22.000Z,"Saya Tidak Suka Artis Yang Mendukung Program Penipuan Seperti MBG Ini. 
+
+Karena MBG Isinya Cuma Makanan Sampah. https://t.co/xDHPRPwi29",1316901689295663105
+1880289818674098203,1880289818674098203,2025-01-17T16:23:21.000Z,Dukung makan bergizi gratis agar generasi masa depan bisa tumbuh dengan sehat dan kuat #PenuhiGiziIndonesia,1690930983917518849
+1880289807357850101,1880289807357850101,2025-01-17T16:23:18.000Z,"Buat yg bilang makan siang gratis itu gk penting itu krn kalian gak RELATE, mending DIAM, emang sekaya apa ente .. gila!!
+Kalo ngerasa punya gak usah ngeluh kalo kena pajak, gaji masih belasan jt aja udh bilang gitu...",1548463591
+1880289764114591842,1880289764114591842,2025-01-17T16:23:08.000Z,Dukung makan bergizi gratis supaya semua orang bisa dapet gizi optimal dan sehat #PenuhiGiziIndonesia https://t.co/atnMVSCkcT,1833764696882909184
+1880289754530648420,1880289754530648420,2025-01-17T16:23:06.000Z,"@ARSIPAJA Suruh aja si squidward itu sama anaknya ikut makan bergizi gratis di sekolah tiap hari. Kalo dia berdua nolak, TABOKIN SE INDONESIA.",1006487451135762433
+1880289679368737272,1880289679368737272,2025-01-17T16:22:48.000Z,"Kalo ada temuan makan siang gratis basi, tolong si botak suruh datang ke sana buat abisin makanannya.",1244133819151605762
+1880289676952760768,1880289676952760768,2025-01-17T16:22:47.000Z,Makan bergizi gratis bantu penuhi kebutuhan gizi semua kalangan #PenuhiGiziIndonesia https://t.co/wlQMpkBlE0,1689481639217491968
+1880289617871794350,1880289617871794350,2025-01-17T16:22:33.000Z,Ga pernah kepikiran deddy corbuzier ngebuzzerin makan siang gratis wkwkwk https://t.co/rvW09zy8KN,1492385432
+1880289572132909319,1880289572132909319,2025-01-17T16:22:22.000Z,"Demi kesehatan bangsa, yuk kita dukung makan bergizi gratis supaya gizi terpenuhi #PenuhiGiziIndonesia https://t.co/LkfF4a1HyK",1681606741472215040
+1880289562624422064,1880289562624422064,2025-01-17T16:22:20.000Z,@an99ik @ARSIPAJA T-tapi kan yang bikin mereka sengsara kan orang yang ngasih program makan siang gratis. Dan pastinya dijadikan konten bersyukur bagi para 02 Voters. Mari kita lihat kedepannya.,1294956181178310657
+1880289517778981264,1880289517778981264,2025-01-17T16:22:09.000Z,"anak dia tu kn ARTIS, ga mungkin nasi box yg dikasi SAD FOOD kayak mbg di sekolahâ€¦ gini aja gak nalar lhoâ€¦",1716980647376596992
+1880289483893195231,1880289483893195231,2025-01-17T16:22:01.000Z,also.. to compare makan siang gratis dengan nasi box syuting... duh.... ðŸ™„,1442880833044377600
+1880289442218508394,1880289442218508394,2025-01-17T16:21:51.000Z,"Bangun bangsa sehat dengan gizi cukup, yuk dukungi makan bergizi gratis #PenuhiGiziIndonesia https://t.co/L52V2AxsO6",1681520630519455746
+1880289438254944550,1880289438254944550,2025-01-17T16:21:50.000Z,"Sepertinya PKI sedang mengalihkan perhatian masyarakat dari isu OCCRP, terong dan pagar laut.
+
+Fokus angkat pagar laut, terong dan OCCRP. Jangan pusing dengan gorengan makan siang gratis dulu
+
+#NegaraKalahLawanAguan  
+#NegaraKalahLawanAguan https://t.co/eTJdnU7j9R",1541060230083006470
+1880289345506275677,1880289345506275677,2025-01-17T16:21:28.000Z,"@PaltiWest2024 Ini kalo dijawab sama janji wowo yang bilang atasi stunting dengan MBG bisa sih, bodoh kali itu MBG aja tujuan awalnya ga jelas buat apaan, program asbun si wowo",1191706229225091072
+1880289339357487400,1880289339357487400,2025-01-17T16:21:27.000Z,Makan bergizi gratis membuka jalan bagi kesehatan dan keberhasilan bersama #PenuhiGiziIndonesia,1700093808443310080
+1880289249406382115,1880289249406382115,2025-01-17T16:21:05.000Z,"@corbuzier Eh palkon, gw kasih paham ya
+Anak itu reviewer terjujur
+Enak bilang enak, ga bilang ngga
+Itu kemewahan mereka. Jika MBG direview bosok ya emang bosok bagi mereka. Mestinya intropeksi lanjut upgrade
+Bukan dibilang PE'A. Lu ngasih makan orang, bukan anjink. Paham Njing? Eh palkon.",1744168234482577408
+1880289217143796189,1880289217143796189,2025-01-17T16:20:58.000Z,Yuk bergerak bersama dukung makan bergizi gratis demi gizi nasional tercapai #PenuhiGiziIndonesia,1696000502327377920
+1880289216023920802,1880289216023920802,2025-01-17T16:20:57.000Z,"Satuan  Brimob Polda Metro Jaya
+Bagikan Makan Bergizi Gratis untuk Siswa Anak Jalanan #polisi #Polisiindonesia #polri #viral #viralvideo #viralterbaru https://t.co/6dHrVNu6c6",1817093169940766720
+1880289188949684261,1880289188949684261,2025-01-17T16:20:51.000Z,"ya karna azka anaknya, dia mau bilang kalo ""anak gue blg ayamnya gaenak, gue marahin meski gue bapaknya"" gitu maksudnya
+
+tapi yg jadi masalah, nih orang komen gini ttg wawancara anak SD bilang ayamnya MBG gaenak, karna ga bersyukur, dan ngatain ortunya gabisa didik anakðŸ˜‚ https://t.co/2LzWny5qaS",1748278193457672192
+1880289153830776907,1880289153830776907,2025-01-17T16:20:43.000Z,"Ooooo itu artinya Pak Prabowo harus rajin menangkap koruptor.
+
+Kalau Pak Prabowo ogah menangkap koruptor, gak ada sitaan dari koruptor, makan siang gratis gak ada.
+
+Hahaha .Â  .
+
+17/1/2025: 
+https://t.co/6trRbkV5A5
+
+#NegaraKalahLawanAguan  
+#NegaraKalahLawanAguan",1541060230083006470
+1880289128761417928,1880289128761417928,2025-01-17T16:20:37.000Z,Mari kita jaga kesehatan anak-anak lewat akses makan bergizi gratis #PenuhiGiziIndonesia https://t.co/xZggZGuEhc,1689497398845071360
+1880289126228066449,1880289126228066449,2025-01-17T16:20:36.000Z,"@tanyarlfes terlalu self insert, pdhal dia bukan target mbg tpi nyalahin anakâ€ demi membela pemerintah pdhal dri awal budget makan siang ditempat syuting dia sma mbg ini udh beda ðŸ˜©",1713982458327384065
+1880289082955431988,1880289082955431988,2025-01-17T16:20:26.000Z,@ARSIPAJA Nasi kotak artis dibandingin sama makan siang gratis wkwk,311928990
+1880288945822732483,1880288945822732483,2025-01-17T16:19:53.000Z,@Tan_Mar3M Ini kan ye yang ngancem mau nabok muka anak anak yang protes menu mbg gak enak,1457612534920269827
+1880288853581525274,1880288853581525274,2025-01-17T16:19:31.000Z,Ayo bangun kesadaran makan bergizi gratis demi generasi unggulan #PenuhiGiziIndonesia https://t.co/CzjQJ2cDO1,1832342364972838915
+1880288850628808931,1880288850628808931,2025-01-17T16:19:30.000Z,@ARSIPAJA Azka makannya nasi kotak yg layak makan ðŸ˜’ itu program MBG kek ugal2an bgt korupsi anggarannya ðŸ˜­,1080811614645809153
+1880288835768316399,1880288835768316399,2025-01-17T16:19:27.000Z,@Cecillia_agnes2 Makan bergizi gratis memberikan harapan baru ayo dukung untuk kesehatan kita semua #PenuhiGiziIndonesia,1684489764223987713
+1880288826901557509,1880288826901557509,2025-01-17T16:19:25.000Z,"Pdhal logikanya bisa dibalik, ""gw mkn steak seharga 6jt aja msh bisa keracunan, gmn MBG yg seadanya ya"". Kan bisa gt malih, jd bisa dievaluasi lg buat lebih baik, entah lebih baik makanannya, atau lebih baik dihentikan sementara (selamanya?), bkn malah normalisasi keracunannya. https://t.co/CZAMv7owk5",85623370
+1880288816709484779,1880288816709484779,2025-01-17T16:19:22.000Z,"@satriohendri Ada sekolah mungut iuran siswa utk beli wadah MBG
+Ada sekolah mungut iuran siswa utk makan gratis guru2nya
+Ada sekolah nyediain hadiah spy ngabisin MBG
+Ada yg larang foto aplg sharing di medsos, gak boleh cerita menu 
+Ada usul ambil dr zakat, dr sedekah
+Trs pemotongan pajak?
+Duh https://t.co/fxnVjCGB1N",1331653431723913217
+1880288796740317563,1880288796740317563,2025-01-17T16:19:17.000Z,"@kompascom Makan bergizi gratis lebih penting daripada uang segitu besarnya di rampok para koruptor,MBG akan terasa langsung oleh anak2 sekolah,itulah tugas negara kpd rakyatnya",1875832297070718976
+1880288738401743314,1880288738401743314,2025-01-17T16:19:03.000Z,"@detikcom MBG lah yg jangan di paksakan, kasihkan saja uang nya spy tdk di korupsi berjama'ah, biarkan gub jkt dg program nya, agar merata utk anak jakarta, sikapi saja MBG jgn keluar jalur",1526215736473300992
+1880288670655344845,1880288670655344845,2025-01-17T16:18:47.000Z,Gizi nasional meningkat karena adanya makan bergizi gratis tetap support selalu ya #PenuhiGiziIndonesia https://t.co/WBmtaLbIYC,1815632154648535040
+1880288655534948732,1880288655534948732,2025-01-17T16:18:44.000Z,"@sisthaaaaa coba para pejabat dan influencerÂ² itu makan tu makan siang gratis tiap hari di kantornya, berani gak mrk",1685167658495586304
+1880288654461137311,1880288654461137311,2025-01-17T16:18:43.000Z,@7pm5vl Aksi nyata untuk Indonesia Maju: dukung makan bergizi gratis #PenuhiGiziIndonesia,1701444882433462272
+1880288653458788437,1880288653458788437,2025-01-17T16:18:43.000Z,"Dengan makan bergizi gratis, kita bisa perkuat gizi nasional #PenuhiGiziIndonesia",1688815219886510080
+1880288571665600537,1880288571665600537,2025-01-17T16:18:24.000Z,"Nah kan ..
+Ni comen gua nilai aja sendiri
+Seperti apa program makan siang gratis ini.. https://t.co/Dnw5ahrY6i",1070798687327186945
+1880288529819005258,1880288529819005258,2025-01-17T16:18:14.000Z,"@ARSIPAJA Pea kurang waras lo. Nasi box buat pekerja seni mau disamain sama makanan MBG, NGAWUR AJA LO PUNYA BACOT",1863798536502140928
+1880288508025401849,1880288508025401849,2025-01-17T16:18:09.000Z,"Apa pendapat anda mengenai kinerja kabinet dari Menteri2 &amp
+1880288481794314393,1880288481794314393,2025-01-17T16:18:02.000Z,Tak ada alasan untuk tidak mendukung makan bergizi gratis demi gizi nasional #PenuhiGiziIndonesia,1696070258489245696
+1880288407781572863,1880288407781572863,2025-01-17T16:17:45.000Z,"Gizi baik bikin anak-anak lebih ceria, yuk dukung makan bergizi gratis biar semua bisa merasakannya #PenuhiGiziIndonesia",1696045908134367232
+1880288396553379943,1880288396553379943,2025-01-17T16:17:42.000Z,Makan bergizi gratis adalah solusi untuk pemenuhan gizi yang merata di seluruh negeri #PenuhiGiziIndonesia https://t.co/1AYp4plFF9,1681595123719897089
